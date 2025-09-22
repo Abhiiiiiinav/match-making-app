@@ -1,0 +1,35 @@
+user_id,name,age,gender,location,interests,favorite_artist,personality,availability,event_type
+1,Aditya,24,Male,Lucknow,Poetry,BloddyWood,Extrovert,Weekdays,Open Mic
+2,Anaya,34,Female,Delhi,Football,BloddyWood,Analytical,Weekdays,Producer Showcase
+3,Arjun,34,Male,Goa,Street Dance,Badshah,Leader,Flexible,Music Festival
+4,Anaya,21,Male,Guwahati,Rap Battles,Ikka,Serious,Weekdays,Indie Night
+5,Vivaan,19,Other,Bhopal,Poetry,Ikka,Serious,Evenings,Cypher Meet
+6,Sai,35,Other,Lucknow,Basketball,Seedhe Maut,Introvert,Evenings,Poetry Slam
+7,Kabir,28,Male,Ahmedabad,Traveling,Arijit Singh,Calm,Flexible,Music Festival
+8,Saanvi,18,Male,Chandigarh,Graffiti,Seedhe Maut,Introvert,Weekends,Workshop
+9,Vivaan,35,Female,Chennai,Concerts,MC Stan,Leader,Weekdays,Cypher Meet
+10,Aarav,34,Other,Indore,Beatboxing,BloddyWood,Curious,Weekends,Afterparty
+11,Anaya,34,Other,Guwahati,Poetry,Prabh Deep,Empathetic,Flexible,Beatbox Battle
+12,Diya,24,Other,Chennai,Skating,Karma,Analytical,Weekends,Afterparty
+13,Krishna,18,Female,Mumbai,Rap Battles,DIVINE,Bold,Weekends,Listening Party
+14,Aadhya,25,Female,Nagpur,Dance,King,Funny,Weekends,Stand-up
+15,Kabir,20,Other,Guwahati,Street Dance,Raftaar,Bold,Evenings,Cypher Meet
+16,Diya,30,Male,Delhi,Skating,Ikka,Extrovert,Weekdays,Afterparty
+17,Reyansh,34,Female,Nagpur,Poetry,KR$NA,Empathetic,Evenings,Graffiti Jam
+18,Arjun,25,Other,Chandigarh,Bollywood,Masala Coffee,Extrovert,Weekdays,Collab Event
+19,Ishaan,18,Other,Bangalore,Freestyle,Karma,Ambivert,Weekdays,Music Tech Fest
+20,Krishna,28,Other,Bangalore,Open Mic,Ikka,Chill,Weekdays,Open Mic
+21,Sai,18,Male,Ahmedabad,Music Production,Karma,Spontaneous,Evenings,Street Dance Battle
+22,Ira,18,Other,Bhopal,Hip-Hop,DIVINE,Practical,Weekdays,Street Dance Battle
+23,Vihaan,20,Other,Ahmedabad,Concerts,BloddyWood,Introvert,Weekends,Collab Event
+24,Ishaan,24,Male,Lucknow,Dance,Arijit Singh,Chill,Weekdays,Listening Party
+25,Pari,35,Female,Chennai,Basketball,Brodha V,Curious,Evenings,Producer Showcase
+26,Vihaan,18,Other,Bhopal,Art,Raftaar,Adventurous,Evenings,Album Launch
+27,Krishna,18,Other,Chandigarh,Freestyle,Raftaar,Introvert,Weekends,Indie Night
+28,Krishna,20,Other,Mumbai,Skating,Seedhe Maut,Calm,Weekends,Album Launch
+29,Myra,34,Female,Bhopal,Coding,DIVINE,Bold,Flexible,Dance Jam
+30,Ishaan,22,Female,Bhopal,Football,KR$NA,Analytical,Flexible,Afterparty
+31,Reyansh,21,Other,Ranchi,Hip-Hop,Karma,Bold,Weekdays,Producer Showcase
+32,Aarohi,26,Female,Bangalore,Poetry,Masala Coffee,Calm,Flexible,Concert
+33,Vihaan,30,Female,Delhi,Dance,DIVINE,Analytical,Flexible,Graffiti Jam
+34,Sai,21,Other,Bangalore,Cricket,Ikka,Empathetic,Weekdays,Street Dance Battle

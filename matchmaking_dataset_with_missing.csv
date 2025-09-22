@@ -1,0 +1,101 @@
+user_id,name,age,gender,location,interests,favorite_artist,personality,availability,event_type
+1,,26.0,Male,,,Seedhe Maut,Spontaneous,Weekends,Producer Showcase
+2,Pari,18.0,Male,Indore,Street Dance,,,Evenings,Rap Battle
+3,,,Female,Ranchi,Beatboxing,,Chill,Weekdays,Open Mic
+4,Pari,29.0,Female,Jaipur,Traveling,Talha Yunus,Practical,Weekends,Workshop
+5,Navya,28.0,Male,Delhi,Concerts,Brodha V,Bold,Evenings,Cypher Meet
+6,,22.0,Female,Surat,Concerts,Raftaar,Ambivert,Weekdays,Street Dance Battle
+7,Aadhya,30.0,Female,Kochi,Hip-Hop,KR$NA,Practical,,Indie Night
+8,Aarav,26.0,Male,Hyderabad,Open Mic,Emiway Bantai,Realist,Weekends,Music Tech Fest
+9,Ira,,Female,Lucknow,Poetry,,Curious,,Cypher Meet
+10,Sai,31.0,Male,Nagpur,Book Shopping,Emiway Bantai,Chill,,Producer Showcase
+11,,19.0,Male,Bangalore,DJ Nights,Brodha V,Bold,Weekends,Indie Night
+12,Vihaan,29.0,Female,Delhi,,Arijit Singh,Optimist,Weekends,DJ Night
+13,Ishaan,20.0,,Kochi,Dance,Prabh Deep,Curious,Flexible,Street Dance Battle
+14,Myra,32.0,Female,Lucknow,Bollywood,,,Flexible,Music Tech Fest
+15,,,Male,Ahmedabad,Basketball,,Ambivert,Evenings,Graffiti Jam
+16,Anaya,,Female,,Skating,,Leader,Weekends,Music Festival
+17,Diya,32.0,Female,,Cricket,,Realist,Weekdays,DJ Night
+18,Ira,28.0,Female,Jaipur,,Karan Aujla,,Weekends,Workshop
+19,Pari,31.0,,Chennai,Beatboxing,Raftaar,Introvert,Weekdays,Graffiti Jam
+20,Vihaan,35.0,Female,Chennai,Poetry,Ikka,Extrovert,Evenings,Indie Night
+21,Krishna,21.0,Male,Ahmedabad,Art,Prabh Deep,Leader,Evenings,Workshop
+22,Anika,35.0,,Jaipur,,Talha Yunus,Creative,Weekdays,Beatbox Battle
+23,Vivaan,18.0,Male,Bangalore,Music Production,Dino James,Calm,Flexible,Album Launch
+24,Reyansh,30.0,Male,Lucknow,Hip-Hop,Brodha V,Bold,Evenings,Collab Event
+25,Anika,23.0,Female,Ranchi,Poetry,Prabh Deep,,Weekends,Afterparty
+26,Aditya,24.0,Female,,Hip-Hop,KR$NA,Chill,,Poetry Slam
+27,Vihaan,32.0,Female,Chandigarh,Football,Naezy,Dreamer,Flexible,Poetry Slam
+28,Ishaan,34.0,Male,Bangalore,Poetry,King,,Weekends,DJ Night
+29,Aditya,28.0,,Surat,Basketball,DIVINE,Bold,Weekdays,Album Launch
+30,Aadhya,35.0,Male,Jaipur,Hip-Hop,Dino James,Empathetic,Flexible,Afterparty
+31,Myra,,,Chandigarh,DJ Nights,Brodha V,Creative,Flexible,Indie Night
+32,Aditya,,Female,Bangalore,,DIVINE,Leader,Weekends,Cypher Meet
+33,Aarohi,32.0,Female,Ranchi,Rap Battles,Ikka,Optimist,Evenings,Dance Jam
+34,,,Female,Ranchi,Basketball,Karma,,,Indie Night
+35,Vihaan,29.0,Female,Surat,Football,Fotty Seven,Practical,Flexible,Beatbox Battle
+36,Krishna,20.0,Female,Chandigarh,Traveling,DIVINE,Creative,Weekends,Workshop
+37,Ira,26.0,,Surat,Poetry,Sidhu Moosewala,Serious,Weekdays,Dance Jam
+38,Kabir,29.0,Female,Kochi,Art,Fotty Seven,Leader,Weekends,Cypher Meet
+39,Aarohi,34.0,Male,Lucknow,Graffiti,Jubin Nautiyal,,Weekdays,DJ Night
+40,,18.0,Female,Indore,Bollywood,,Ambivert,Weekdays,Rap Battle
+41,Aarohi,20.0,Male,Surat,Skating,Emiway Bantai,Serious,Flexible,
+42,Vihaan,24.0,Female,Kolkata,,DIVINE,Kind,Weekdays,Album Launch
+43,,25.0,Male,Kochi,Freestyle,,Dreamer,Evenings,Collab Event
+44,Myra,34.0,,Delhi,Music Production,,Bold,Weekdays,Workshop
+45,Sai,32.0,Male,Surat,Coding,Bloodywood,Creative,Weekdays,Listening Party
+46,Saanvi,30.0,Male,Indore,Rap Battles,Arijit Singh,Extrovert,Flexible,Graffiti Jam
+47,Ira,32.0,Male,Chennai,Art,,Kind,Weekends,Concert
+48,Aditya,21.0,Male,Chennai,Open Mic,Fotty Seven,Curious,Weekends,DJ Night
+49,Ira,22.0,Female,Surat,Football,DIVINE,Calm,Flexible,Collab Event
+50,Diya,35.0,Female,Ahmedabad,Poetry,,Curious,Flexible,DJ Night
+51,,28.0,,,Freestyle,Sidhu Moosewala,Ambivert,Evenings,Dance Jam
+52,Anaya,35.0,Female,Goa,Bollywood,Prabh Deep,Calm,Weekdays,Open Mic
+53,Vihaan,27.0,Male,Delhi,Beatboxing,Prabh Deep,Bold,Weekends,Music Festival
+54,Myra,25.0,Male,Jaipur,,Masala Coffee,Practical,Flexible,Beatbox Battle
+55,Aadhya,32.0,Male,,Concerts,Talha Anjum,,Flexible,Beatbox Battle
+56,Vivaan,33.0,Female,Ahmedabad,Beatboxing,Brodha V,Realist,Weekdays,
+57,Diya,20.0,Female,Kolkata,Cricket,Karma,Adventurous,Evenings,Cypher Meet
+58,Kabir,28.0,Female,Chennai,Poetry,Shreya Ghoshal,Empathetic,,
+59,,29.0,Female,,Poetry,Talha Yunus,Practical,Weekends,Collab Event
+60,Kabir,,Male,,Poetry,Raftaar,Analytical,Flexible,DJ Night
+61,Vihaan,31.0,,Bhopal,Art,,Analytical,,Workshop
+62,Vihaan,,Male,Ranchi,Bollywood,Prabh Deep,Bold,Weekends,Poetry Slam
+63,Arjun,18.0,Male,Kochi,,,Analytical,Weekends,Concert
+64,,31.0,Male,Bhopal,Rap Battles,Prabh Deep,Introvert,Evenings,
+65,Saanvi,31.0,Female,,Dance,,Adventurous,Evenings,Afterparty
+66,Pari,,Male,Kochi,Street Dance,Prabh Deep,Serious,Weekdays,Listening Party
+67,Diya,,,Hyderabad,Beatboxing,,Practical,Weekdays,Indie Night
+68,Vivaan,27.0,Male,Goa,Rap Battles,Naezy,Adventurous,Flexible,Afterparty
+69,,,Female,Lucknow,,Raftaar,,,Music Tech Fest
+70,Aadhya,23.0,Female,Patna,Bollywood,,Ambivert,Flexible,Collab Event
+71,Reyansh,21.0,Male,Patna,Traveling,Prabh Deep,,Weekends,Graffiti Jam
+72,Ishaan,,Female,Nagpur,Poetry,Dino James,Ambivert,Weekdays,Collab Event
+73,Anaya,30.0,Female,,Music Production,Talha Yunus,,Weekdays,Beatbox Battle
+74,Aditya,27.0,Male,,,Emiway Bantai,Analytical,Weekends,DJ Night
+75,Sai,20.0,Female,Patna,Art,Talha Anjum,Kind,Evenings,Music Festival
+76,Kabir,19.0,Male,,Beatboxing,Seedhe Maut,Ambivert,Flexible,Producer Showcase
+77,Vivaan,24.0,Female,Delhi,Music Production,Seedhe Maut,,Flexible,Music Tech Fest
+78,Sai,27.0,Female,Delhi,Book Shopping,,Empathetic,Weekends,Beatbox Battle
+79,Diya,,Male,Nagpur,Music Production,Dino James,,Flexible,Concert
+80,Sai,28.0,Female,Chennai,Open Mic,KR$NA,Practical,Weekdays,
+81,Myra,23.0,Male,Delhi,Traveling,Masala Coffee,Serious,Weekends,Cypher Meet
+82,Reyansh,32.0,Female,Guwahati,Graffiti,,,Flexible,Producer Showcase
+83,Anika,,Male,,,Prabh Deep,Analytical,,Music Tech Fest
+84,Myra,29.0,Female,Indore,,Bloodywood,Realist,Flexible,Concert
+85,Aarav,22.0,,Lucknow,,Karan Aujla,Kind,Weekdays,Cypher Meet
+86,Aarav,25.0,Female,Ranchi,Basketball,Dino James,Spontaneous,Weekdays,Producer Showcase
+87,Anika,30.0,Male,Bhopal,Hip-Hop,Seedhe Maut,Optimist,,Stand-up
+88,Sai,32.0,Female,,,,Leader,Evenings,Music Tech Fest
+89,Navya,19.0,Male,Delhi,Music Production,Karma,Empathetic,Flexible,Street Dance Battle
+90,Saanvi,34.0,Male,Bangalore,Graffiti,,Creative,Evenings,Indie Night
+91,Pari,19.0,Female,Surat,,Sidhu Moosewala,Spontaneous,Weekends,DJ Night
+92,,20.0,Female,,Freestyle,Karma,Ambivert,Evenings,Workshop
+93,,23.0,Female,Hyderabad,DJ Nights,Brodha V,Calm,Flexible,DJ Night
+94,Pari,32.0,Female,Bangalore,Open Mic,Ikka,Dreamer,,Graffiti Jam
+95,Krishna,18.0,Female,,,Arijit Singh,Curious,Flexible,
+96,Anaya,32.0,,Kochi,Graffiti,Raftaar,Introvert,Weekends,Street Dance Battle
+97,Krishna,34.0,Male,Kochi,Book Shopping,,Dreamer,Weekends,Afterparty
+98,Ira,19.0,,Patna,Street Dance,Karan Aujla,Extrovert,Evenings,Album Launch
+99,Myra,20.0,Male,Goa,Music Production,King,Creative,Evenings,DJ Night
+100,Anika,28.0,Male,,Bollywood,Arijit Singh,Funny,Weekends,Beatbox Battle
